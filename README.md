@@ -1,6 +1,10 @@
 # Detecção de Rachaduras usando YOLO
 
 
+
+https://github.com/brunomleao/EntregaYoloBackend/assets/99328889/b825386b-f575-4d72-90fd-5e9812e99d84
+
+
 Este projeto consiste em um sistema de detecção de rachaduras em tempo real utilizando o algoritmo YOLO (You Only Look Once). Além disso, há uma integração com um servidor local para salvar as imagens detectadas.
 
 Pré-requisitos
